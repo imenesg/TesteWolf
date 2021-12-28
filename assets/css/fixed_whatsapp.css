@@ -1,0 +1,12 @@
+.fixed_whatsapp{
+    position: fixed; 
+    bottom: 1rem;
+    right: 1rem;
+    background-color: var(--cor-amarelo);
+    border-radius: 20%;
+    padding: .1rem;
+}
+.fixed_whatsapp i{
+    font-size: 3rem;
+    color: var(--cor-azul);
+}

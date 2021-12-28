@@ -1,0 +1,16 @@
+:root{
+    --cor-azul: #191D4C;
+
+    --cor-amarelo: #FEC32B;
+
+    --cor-rosa: #EB7B6F;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0; padding: 0; 
+}
+a{
+    text-decoration: none;
+    color: unset;
+}
